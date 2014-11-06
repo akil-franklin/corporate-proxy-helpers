@@ -1,0 +1,1 @@
+taskkill /IM cntlm.exe /F
